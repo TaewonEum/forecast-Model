@@ -30,3 +30,4 @@ Kia 주가
 
 # 주요 종목들 Trend 파악해보기
 
+-1. SAMSUNG
