@@ -25,3 +25,5 @@ LG전자 주가
 Kia 주가
 
 ![image](https://user-images.githubusercontent.com/104436260/209778117-84ccefc7-1068-4537-ba68-c2cb5003c930.png)
+
+종목 코드를 입력하면 해당 회사의 상장일부터 금일 주가까지 Loading가능
