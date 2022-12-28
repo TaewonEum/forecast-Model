@@ -53,3 +53,6 @@ SAMSUNG의 전체 주가를 4Part로 나누어서 시각화
 ![image](https://user-images.githubusercontent.com/104436260/209780124-348d8a5b-212c-4153-a425-92ff39a0d3e1.png)
 
 Open~Volume까지의 변수 표준화 시켜줌
+
+min-max scaler 생성
+
