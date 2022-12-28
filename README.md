@@ -1,4 +1,4 @@
-# forecast-Model
+# 주가 forecast-Model
 
 주가 예측 모델(LSTM)
 
