@@ -11,3 +11,9 @@
 FinanceDataReader=주가 데이터를 가져오는 라이브러리
 
 tensorflow=데이터의 Tensor변환 등 전처리에 사용하기 위해 import
+
+# FinanceDataReader 기능
+
+Samsung전자 주가
+![image](https://user-images.githubusercontent.com/104436260/209778000-92a0b0a6-b92d-4930-873b-350966ef557b.png)
+
