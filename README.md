@@ -44,4 +44,4 @@ SAMSUNG의 전체 주가를 4Part로 나누어서 시각화
 
 ![image](https://user-images.githubusercontent.com/104436260/209779297-b1375355-ccd4-4cae-b2b9-a0f1f9c8ea7d.png)
 
-
+2015년에 비해 거의 2021년도 초에는 400%가량 주가가 증가함.
