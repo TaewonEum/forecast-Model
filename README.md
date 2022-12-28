@@ -28,7 +28,7 @@ Kia 주가
 
 종목 코드를 입력하면 해당 회사의 상장일부터 금일 주가까지 Loading가능
 
-# 주요 종목들 Trend 파악해보기
+# SAMSUNG 전자 Trend 파악해보기
 
 -1. SAMSUNG
 
