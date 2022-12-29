@@ -66,5 +66,9 @@ min-max scaler 생성
 
 ![image](https://user-images.githubusercontent.com/104436260/209889323-efb3d7b2-4dfa-4a4a-86ac-b3557d435b15.png)
 
+# Window data set 생성하기
+
+![image](https://user-images.githubusercontent.com/104436260/209889455-78bf1228-d658-40fa-9602-742c07df9b75.png)
+
 
 
