@@ -70,5 +70,6 @@ min-max scaler 생성
 
 ![image](https://user-images.githubusercontent.com/104436260/209889455-78bf1228-d658-40fa-9602-742c07df9b75.png)
 
+![image](https://user-images.githubusercontent.com/104436260/209890017-e104c484-5fe4-48a6-9967-0fe9d2ef32c2.png)
 
 
