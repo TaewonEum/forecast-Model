@@ -78,3 +78,9 @@ iteration을 통해 train_data, test_data의 형태를 보면 함수가 잘 적�
 
 32개의 y값으로 이루어진 y데이터
 
+# model 구현
+
+![image](https://user-images.githubusercontent.com/104436260/209890952-8809ec8c-e6a2-49e5-a322-e3edc115b456.png)
+
+
+
