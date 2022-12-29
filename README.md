@@ -56,3 +56,7 @@ Open~Volume까지의 변수 표준화 시켜줌
 
 min-max scaler 생성
 
+표준화 적용
+
+![image](https://user-images.githubusercontent.com/104436260/209889092-038f6911-4e77-4f35-9b6c-9a45c00c43a6.png)
+
