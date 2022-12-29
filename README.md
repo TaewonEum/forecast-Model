@@ -63,3 +63,8 @@ min-max scaler 생성
 # Data Split
 
 -Train:Test=8:2 비율로 Data Split
+
+![image](https://user-images.githubusercontent.com/104436260/209889323-efb3d7b2-4dfa-4a4a-86ac-b3557d435b15.png)
+
+
+
