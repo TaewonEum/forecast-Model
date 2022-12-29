@@ -72,4 +72,9 @@ min-max scaler 생성
 
 ![image](https://user-images.githubusercontent.com/104436260/209890017-e104c484-5fe4-48a6-9967-0fe9d2ef32c2.png)
 
+iteration을 통해 train_data, test_data의 형태를 보면 함수가 잘 적용된 것을 알 수 있다.
+
+32배치사이즈에 20일 동안의 x값으로 이루어진 x 데이터
+
+32개의 y값으로 이루어진 y데이터
 
