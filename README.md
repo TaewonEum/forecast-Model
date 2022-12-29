@@ -82,5 +82,9 @@ iteration을 통해 train_data, test_data의 형태를 보면 함수가 잘 적�
 
 ![image](https://user-images.githubusercontent.com/104436260/209890952-8809ec8c-e6a2-49e5-a322-e3edc115b456.png)
 
+- 패키지 설치
 
+![image](https://user-images.githubusercontent.com/104436260/209894559-ba888707-7aac-4855-9f08-077197dab24f.png)
+
+- 모델 구조 구현
 
