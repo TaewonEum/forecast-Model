@@ -87,5 +87,8 @@ iteration을 통해 train_data, test_data의 형태를 보면 함수가 잘 적�
 
 ![image](https://user-images.githubusercontent.com/104436260/209894559-ba888707-7aac-4855-9f08-077197dab24f.png)
 
+- 모델 학습 진행
+
+![image](https://user-images.githubusercontent.com/104436260/209896241-b3044210-8a45-4c6c-bc91-1d4e0bc8cf44.png)
 
 
